@@ -1,0 +1,3 @@
+[submodule "vendor/child"]
+	path = vendor/child
+	url = https://github.com/zainul1996/relay-submodule-child-fixture.git
